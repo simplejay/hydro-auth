@@ -66,5 +66,3 @@ authenticate.isAuthenticated();
 
     </div>
   </div>
-
-  </div>
