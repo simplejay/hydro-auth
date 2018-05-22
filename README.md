@@ -1,2 +1,2 @@
 # hydro-auth
-hydrogen raindrop api library for java
+<b>Java library for Hydro Raindrop Api</b>
